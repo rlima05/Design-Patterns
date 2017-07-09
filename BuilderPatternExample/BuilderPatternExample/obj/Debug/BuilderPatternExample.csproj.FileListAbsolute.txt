@@ -1,0 +1,6 @@
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatternExample\BuilderPatternExample\bin\Debug\BuilderPatternExample.exe.config
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.csprojResolveAssemblyReference.cache
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatternExample\BuilderPatternExample\bin\Debug\BuilderPatternExample.exe
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatternExample\BuilderPatternExample\bin\Debug\BuilderPatternExample.pdb
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.exe
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.pdb

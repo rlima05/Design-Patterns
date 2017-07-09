@@ -1,0 +1,6 @@
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BridgePatterExample\BridgePatterExample\bin\Debug\BridgePatterExample.exe.config
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BridgePatterExample\BridgePatterExample\bin\Debug\BridgePatterExample.exe
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BridgePatterExample\BridgePatterExample\bin\Debug\BridgePatterExample.pdb
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BridgePatterExample\BridgePatterExample\obj\Debug\BridgePatterExample.csprojResolveAssemblyReference.cache
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BridgePatterExample\BridgePatterExample\obj\Debug\BridgePatterExample.exe
+c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BridgePatterExample\BridgePatterExample\obj\Debug\BridgePatterExample.pdb

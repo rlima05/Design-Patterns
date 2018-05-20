@@ -4,3 +4,10 @@ c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatter
 c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatternExample\BuilderPatternExample\bin\Debug\BuilderPatternExample.pdb
 c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.exe
 c:\users\raphael.l.fernandes\documents\visual studio 2015\Projects\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.pdb
+C:\Users\raphael.l.fernandes\Documents\GitHub\Design-Patterns\BuilderPatternExample\BuilderPatternExample\bin\Debug\BuilderPatternExample.exe.config
+C:\Users\raphael.l.fernandes\Documents\GitHub\Design-Patterns\BuilderPatternExample\BuilderPatternExample\bin\Debug\BuilderPatternExample.exe
+C:\Users\raphael.l.fernandes\Documents\GitHub\Design-Patterns\BuilderPatternExample\BuilderPatternExample\bin\Debug\BuilderPatternExample.pdb
+C:\Users\raphael.l.fernandes\Documents\GitHub\Design-Patterns\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.csprojResolveAssemblyReference.cache
+C:\Users\raphael.l.fernandes\Documents\GitHub\Design-Patterns\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\raphael.l.fernandes\Documents\GitHub\Design-Patterns\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.exe
+C:\Users\raphael.l.fernandes\Documents\GitHub\Design-Patterns\BuilderPatternExample\BuilderPatternExample\obj\Debug\BuilderPatternExample.pdb

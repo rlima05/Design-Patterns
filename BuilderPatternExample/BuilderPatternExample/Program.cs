@@ -6,6 +6,7 @@ namespace BuilderPatternExample
     {
         static void Main(string[] args)
         {
+            //Without parameters
             var maker = new SandwichMaker(new Hamburguer());
             maker.BuildSandwich();
             var sandwich = maker.GetSandwich();
@@ -24,8 +25,24 @@ namespace BuilderPatternExample
             maker3.BuildSandwich();
             var sandwich3 = maker3.GetSandwich();
             sandwich3.Display();
-
             WriteLine();
+
+            //With Parameters
+            var personBuilder = new PersonBuilder();
+
+            var person = personBuilder
+                         .MyNameIs("Raphael")
+                         .Lives
+                            .At("Guaibe Street")
+                            .In("Santos")
+                            .WithPostalCode("11035190")
+                         .Works
+                            .At("Avanade")
+                            .WithIncome(13546)
+                            .AsA("SSE")
+                            .ToPerson();
+
+            person.Display();
 
             ReadKey();
         }

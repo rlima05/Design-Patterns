@@ -43,14 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaconSandwich.cs" />
-    <Compile Include="ChickenSandwich.cs" />
-    <Compile Include="Hamburguer.cs" />
+    <Compile Include="NoParameters\BaconSandwich.cs" />
+    <Compile Include="NoParameters\ChickenSandwich.cs" />
+    <Compile Include="NoParameters\Hamburguer.cs" />
+    <Compile Include="With Parameters\Person.cs" />
+    <Compile Include="With Parameters\PersonAddressBuilder.cs" />
+    <Compile Include="With Parameters\PersonBuilder.cs" />
+    <Compile Include="With Parameters\PersonJobBuilder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sandwich.cs" />
-    <Compile Include="SandwichBuilder.cs" />
-    <Compile Include="SandwichMaker.cs" />
+    <Compile Include="NoParameters\Sandwich.cs" />
+    <Compile Include="NoParameters\SandwichBuilder.cs" />
+    <Compile Include="NoParameters\SandwichMaker.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

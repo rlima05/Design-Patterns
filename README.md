@@ -3,3 +3,5 @@ Bridge Pattern is a simple example of Bridge Pattern in C#. This pattern is reco
 Builder Pattern is used when you need to create objects with several steps.
 
 Chain of Responsability is a pattern used when you have a workflow.
+
+Singleton is used when you must ensure only one instance of a class should be accessed on the entire solution.

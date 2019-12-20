@@ -1,0 +1,11 @@
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\bin\Debug\netcoreapp2.1\FacadaPattern.deps.json
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\bin\Debug\netcoreapp2.1\FacadaPattern.runtimeconfig.json
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\bin\Debug\netcoreapp2.1\FacadaPattern.runtimeconfig.dev.json
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\bin\Debug\netcoreapp2.1\FacadaPattern.dll
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\bin\Debug\netcoreapp2.1\FacadaPattern.pdb
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\obj\Debug\netcoreapp2.1\FacadaPattern.csprojAssemblyReference.cache
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\obj\Debug\netcoreapp2.1\FacadaPattern.csproj.CoreCompileInputs.cache
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\obj\Debug\netcoreapp2.1\FacadaPattern.AssemblyInfoInputs.cache
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\obj\Debug\netcoreapp2.1\FacadaPattern.AssemblyInfo.cs
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\obj\Debug\netcoreapp2.1\FacadaPattern.dll
+C:\Users\raphael.l.fernandes\Design-Patterns\FacadaPattern\FacadaPattern\obj\Debug\netcoreapp2.1\FacadaPattern.pdb

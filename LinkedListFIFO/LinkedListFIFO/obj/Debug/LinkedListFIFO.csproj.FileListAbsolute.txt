@@ -1,7 +1,0 @@
-C:\Users\raphaellima\source\repos\LinkedListFIFO\LinkedListFIFO\bin\Debug\LinkedListFIFO.exe.config
-C:\Users\raphaellima\source\repos\LinkedListFIFO\LinkedListFIFO\bin\Debug\LinkedListFIFO.exe
-C:\Users\raphaellima\source\repos\LinkedListFIFO\LinkedListFIFO\bin\Debug\LinkedListFIFO.pdb
-C:\Users\raphaellima\source\repos\LinkedListFIFO\LinkedListFIFO\obj\Debug\LinkedListFIFO.csprojAssemblyReference.cache
-C:\Users\raphaellima\source\repos\LinkedListFIFO\LinkedListFIFO\obj\Debug\LinkedListFIFO.csproj.CoreCompileInputs.cache
-C:\Users\raphaellima\source\repos\LinkedListFIFO\LinkedListFIFO\obj\Debug\LinkedListFIFO.exe
-C:\Users\raphaellima\source\repos\LinkedListFIFO\LinkedListFIFO\obj\Debug\LinkedListFIFO.pdb

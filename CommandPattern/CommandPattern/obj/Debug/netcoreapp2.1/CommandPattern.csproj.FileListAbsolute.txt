@@ -1,0 +1,11 @@
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.deps.json
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.json
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.dev.json
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.dll
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.pdb
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.csprojAssemblyReference.cache
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfo.cs
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.dll
+C:\Users\raphaellima\source\repos\CommandPattern\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.pdb

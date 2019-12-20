@@ -1,0 +1,10 @@
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\bin\Debug\netcoreapp2.1\ChainOfResposibilityPattern.deps.json
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\bin\Debug\netcoreapp2.1\ChainOfResposibilityPattern.runtimeconfig.json
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\bin\Debug\netcoreapp2.1\ChainOfResposibilityPattern.runtimeconfig.dev.json
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\bin\Debug\netcoreapp2.1\ChainOfResposibilityPattern.dll
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\bin\Debug\netcoreapp2.1\ChainOfResposibilityPattern.pdb
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\obj\Debug\netcoreapp2.1\ChainOfResposibilityPattern.csproj.CoreCompileInputs.cache
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\obj\Debug\netcoreapp2.1\ChainOfResposibilityPattern.AssemblyInfoInputs.cache
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\obj\Debug\netcoreapp2.1\ChainOfResposibilityPattern.AssemblyInfo.cs
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\obj\Debug\netcoreapp2.1\ChainOfResposibilityPattern.dll
+C:\Users\raphaellima\source\repos\ChainOfResposibilityPattern\ChainOfResposibilityPattern\obj\Debug\netcoreapp2.1\ChainOfResposibilityPattern.pdb

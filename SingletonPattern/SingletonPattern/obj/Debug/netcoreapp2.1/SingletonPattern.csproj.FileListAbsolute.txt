@@ -1,0 +1,11 @@
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.deps.json
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.runtimeconfig.json
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.runtimeconfig.dev.json
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.dll
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.pdb
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.AssemblyInfo.cs
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.dll
+C:\Users\raphaellima\source\repos\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.pdb

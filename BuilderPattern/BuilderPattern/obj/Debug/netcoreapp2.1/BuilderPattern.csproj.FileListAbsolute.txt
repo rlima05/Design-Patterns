@@ -1,0 +1,11 @@
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.deps.json
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.json
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.runtimeconfig.dev.json
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.dll
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\bin\Debug\netcoreapp2.1\BuilderPattern.pdb
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.csprojAssemblyReference.cache
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.AssemblyInfo.cs
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.dll
+C:\Users\raphaellima\source\repos\BuilderPattern\BuilderPattern\obj\Debug\netcoreapp2.1\BuilderPattern.pdb

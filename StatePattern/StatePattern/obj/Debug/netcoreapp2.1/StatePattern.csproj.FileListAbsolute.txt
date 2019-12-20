@@ -1,0 +1,11 @@
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.csprojAssemblyReference.cache
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.AssemblyInfoInputs.cache
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.AssemblyInfo.cs
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.deps.json
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.runtimeconfig.json
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.runtimeconfig.dev.json
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.dll
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.pdb
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.dll
+C:\Users\raphaellima\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.pdb

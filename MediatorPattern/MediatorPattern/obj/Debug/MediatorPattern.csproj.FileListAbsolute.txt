@@ -1,0 +1,10 @@
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.exe
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\bin\Debug\MediatorPattern.pdb
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.csprojAssemblyReference.cache
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.Form.resources
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.Properties.Resources.resources
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.csproj.GenerateResource.cache
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.exe
+C:\Users\raphaellima\source\repos\MediatorPattern\MediatorPattern\obj\Debug\MediatorPattern.pdb

@@ -1,0 +1,11 @@
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\netcoreapp2.1\TemplateMethodPattern.deps.json
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\netcoreapp2.1\TemplateMethodPattern.runtimeconfig.json
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\netcoreapp2.1\TemplateMethodPattern.runtimeconfig.dev.json
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\netcoreapp2.1\TemplateMethodPattern.dll
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\netcoreapp2.1\TemplateMethodPattern.pdb
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\netcoreapp2.1\TemplateMethodPattern.csprojAssemblyReference.cache
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\netcoreapp2.1\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\netcoreapp2.1\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\netcoreapp2.1\TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\netcoreapp2.1\TemplateMethodPattern.dll
+C:\Users\raphaellima\source\repos\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\netcoreapp2.1\TemplateMethodPattern.pdb

@@ -1,0 +1,11 @@
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.deps.json
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.runtimeconfig.json
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.runtimeconfig.dev.json
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.dll
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp2.1\AdapterPattern.pdb
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.csprojAssemblyReference.cache
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.AssemblyInfo.cs
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.dll
+C:\Users\raphaellima\source\repos\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp2.1\AdapterPattern.pdb
